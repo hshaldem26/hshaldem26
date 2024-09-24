@@ -1,9 +1,9 @@
 # About Me:
 
 
-**hshaldem26/hshaldem26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**hshaldem26/hshaldem26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on a ToDo List application to practice HTML, CSS, and JavaScript.
 - 🌱 I’m currently learning C++, SQL, and the other languages listed above. I am taking Computer Architecture, Data Structures, Database systems, and Technical Writing.
